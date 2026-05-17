@@ -62,13 +62,13 @@ export default function Header() {
           </a>
         ))}
         <a
-          href="https://your-domain.com/Oshadha_Preveen_Professional_CV.pdf"
-          className="nav-link nav-cta"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          My CV
-        </a>
+  href="Oshadha_Preveen_Professional_CV.pdf"
+  className="nav-link nav-cta"
+  target="_blank"
+  rel="noopener noreferrer"
+>
+  My CV
+</a>
       </nav>
 
       <button
